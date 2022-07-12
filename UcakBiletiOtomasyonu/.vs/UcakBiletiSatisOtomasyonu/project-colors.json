@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "774a6878-ea87-4001-9167-b684b11c0594": {
+      "ProjectGuid": "774a6878-ea87-4001-9167-b684b11c0594",
+      "DisplayName": "UcakBiletiSatisOtomasyonu",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "407244e4-9f35-4552-940e-87348d4834d3": {
+      "ProjectGuid": "407244e4-9f35-4552-940e-87348d4834d3",
+      "DisplayName": "UcakBiletiRezervasyonSistemi",
+      "ColorIndex": 1
+    },
+    "2083c747-0bdf-45d4-8448-d7ae112da13f": {
+      "ProjectGuid": "2083c747-0bdf-45d4-8448-d7ae112da13f",
+      "DisplayName": "Otobus_bilet",
+      "ColorIndex": 2
+    },
+    "2a617f9a-9d1a-4339-ab8c-e09dc902c3bb": {
+      "ProjectGuid": "2a617f9a-9d1a-4339-ab8c-e09dc902c3bb",
+      "DisplayName": "WindowsFormsApplication1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
